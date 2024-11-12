@@ -8,9 +8,9 @@ API_ID = int(os.environ.get("API_ID", "21546320"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH", "c16805d6f2393d35e7c49527daa317c7")
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7653709068:AAGHuGbYF_qxWg1hLNX16RsSmH3xD2WA5j4")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7653709068:AAEEc5ipZo9H3699QOJHJc3x73gyszkyvOI")
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@shilpachatfight_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "shilpachatfight_bot")
 # ------------------X------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7070591202"))
 # ------------------X------------------------------
